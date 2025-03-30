@@ -21,16 +21,16 @@ If a norm exempts the speaker or some preferred group, it creates a condition in
 > The moment one allows exemption, one permits rational domination.
 
 ## 7. The Bound and the Just-Bound
-Any agent who lives under a norm is considered bound. This includes irrational, self-exempting, or tyrannical norms. But only agents who follow norms that are rational, universal, and non-tyrannical are considered just-bound. The just-bound are not ethically special—they are simply structurally coherent. And because of that, they are the only agents against whom domination cannot be justified.
+Any agent who lives under a norm is considered bound. This includes irrational, self-exempting, or tyrannical norms. But only agents who follow norms that are rational, universal, and non-tyrannical are considered just-bound. The just-bound are not ethically special—they are simply structurally coherent. And because of that, they are the only agents against whom domination cannot be justified rationally.
 
-## 8. Tyranny as the Minimal Norm
-Tyranny is a valid norm in structure: it is rational and universal.
+## 8. Tyranny as the False Norm
+Tyranny appears structurally valid: it is rational and universal. But this is deceptive. Its collapse will be shown.
 It permits domination by any who are able. It makes no exemptions.
 In this way, it is not a deviation from ethics—it is ethics reduced to zero.
 To be bound to tyranny or to nothing at all is the same: you are at anyone’s mercy — without defense or claim.
 
 ## 9. The Greater Tyrant
-The Greater Tyrant, bound to tyranny, permits domination universally — and therefore permits his own.
+The Greater Tyrant, bound to tyranny, permits domination universally.
 He does not claim safety — he claims power.
 But tyranny offers no shield, even to its master.
 He may dominate today, but he lives by a rule that invites domination by any who are greater.
