@@ -9,11 +9,16 @@ Domination is not an exception in political life — it is its default condition
 ## 3. Definition of a Norm
 A norm is a prescriptive claim. It asserts what one ought to do, or what ought to be permitted or prohibited. It is distinct from preferences, descriptions, or expressions of power. Once a norm is asserted, it invites structural evaluation: is it rational, universal, and self-binding?
 
-## 5. Axiom I: The Norm Must Be Rational
+## 5. Axiom I: A Norm Must Be Rational
 A norm that contradicts itself—either in logic or in application—collapses. An agent who asserts an irrational norm cannot defend themselves when it is violated, because their standard has already failed. Rationality is the minimal requirement for normativity.
 
-## 6. Axiom II: The Norm Must Be Universal
-A norm must apply to all relevant agents, including the speaker. If it exempts the speaker or some preferred group, it creates a condition indistinguishable from tyranny. The moment one allows exemption, one permits domination.
+## 6. Axiom II: A Norm Must Be Universal
+The norm must treat all relevant agents equally and symmetrically, including the speaker.
+It must not create privileged roles, exemptions, or asymmetries in obligation, consequence, or authority.
+Application must be not only shared, but structurally identical in its effects on all agents.
+If a norm exempts the speaker or some preferred group, it creates a condition indistinguishable from tyranny.
+
+> The moment one allows exemption, one permits rational domination.
 
 ## 7. The Bound and the Just-Bound
 Any agent who lives under a norm is considered bound. This includes irrational, self-exempting, or tyrannical norms. But only agents who follow norms that are rational, universal, and non-tyrannical are considered just-bound. The just-bound are not ethically special—they are simply structurally coherent. And because of that, they are the only agents against whom domination cannot be justified.
