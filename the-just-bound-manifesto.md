@@ -21,7 +21,16 @@ If a norm exempts the speaker or some preferred group, it creates a condition in
 > The moment one allows exemption, one permits rational domination.
 
 ## 7. The Bound and the Just-Bound
-Any agent who lives under a norm is considered bound. This includes irrational, self-exempting, or tyrannical norms. But only agents who follow norms that are rational, universal, and non-tyrannical are considered just-bound. The just-bound are not ethically special—they are simply structurally coherent. And because of that, they are the only agents against whom domination cannot be justified rationally.
+Any agent who lives under a norm is considered bound.
+This includes irrational, self-exempting, or tyrannical norms.
+
+But only agents who follow just-binding norms — norms that are rational, universal — are considered Just-Bound.
+
+Just-binding norms are not defined by outcome or ethics, but by internal structure:
+they allow no privilege, no exemption, no contradiction.
+
+The Just-Bound are not ethically superior — they are simply structurally valid.
+They may not be safe, but they are not vulnerable to rational domination
 
 ## 8. Tyranny as the False Norm
 Tyranny appears structurally valid: it is rational and universal. But this is deceptive. Its collapse will be shown.
@@ -57,8 +66,13 @@ You cannot say he is wrong, because your logic has already permitted him.
 And so, domination against the self-exempting is just — not because it is fair, but because it is permitted by their own logic.
 
 ## 13. The Just-Bound
-The just-bound follows a rational, universal, non-tyrannical norm. This norm does not permit domination. The Greater Tyrant may still strike the just-bound—but he cannot rationally justify it — not without abandoning universality. And the moment he does that, he creates a permission — and a path — for a tyrant greater than himself to strike justly. The just-bound, though not invulnerable, is structurally untouchable.
-And so domination against the just-bound is unjust — not because it is cruel, but because it cannot be rationally defended on his terms.
+The Just-Bound follows a just-binding norm — one that permits no domination.
+The Greater Tyrant may still strike him, but he cannot rationally justify it — not without abandoning universality.
+
+And the moment he does that, he creates a permission — and a path — for a tyrant greater than himself to strike justly.
+
+The Just-Bound, though not invulnerable, is structurally untouchable.
+And so domination against him is unjust — not because it is cruel, but because it cannot be rationally defended on his terms.
 
 ## 14. Derivations
 
@@ -72,7 +86,7 @@ In this sense, they are more dangerous than the Greater Tyrant: he declares the 
 They do not fail because they are weak — they fail because their structure collapses the moment it is tested.
 
 ## 14.2. The Necessity of Self-binding
-Norms following the two axioms must be self-binding.
+Just-binding norms must be self-binding.
 Self-binding is not an axiom. It is the unavoidable implication of universality.
 If a norm does not bind the speaker, it is asymmetric — and therefore not universal.
 To be universal, a norm must apply to all relevant agents equally — including the one who asserts it.
