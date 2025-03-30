@@ -13,7 +13,7 @@ A norm is a prescriptive claim. It asserts what one ought to do, or what ought t
 A norm that contradicts itself—either in logic or in application—collapses. An agent who asserts an irrational norm cannot defend themselves when it is violated, because their standard has already failed. Rationality is the minimal requirement for normativity.
 
 ## 6. Axiom II: A Norm Must Be Universal
-The norm must treat all relevant agents equally and symmetrically, including the speaker.
+The norm must treat all relevant agents equally and symmetrically.
 It must not create privileged roles, exemptions, or asymmetries in obligation, consequence, or authority.
 Application must be not only shared, but structurally identical in its effects on all agents.
 If a norm exempts the speaker or some preferred group, it creates a condition indistinguishable from tyranny.
@@ -71,7 +71,13 @@ But structurally, they’re doing exactly what the Greater Tyrant does: Creating
 In this sense, they are more dangerous than the Greater Tyrant: he declares the game openly. They demand the right to dominate, and then ask for protection when dominated in return.
 They do not fail because they are weak — they fail because their structure collapses the moment it is tested.
 
-## 14.2. Hypocrisy is unbinding
+## 14.2. The Necessity of Self-binding
+Norms following the two axioms must be self-binding.
+Self-binding is not an axiom. It is the unavoidable implication of universality.
+If a norm does not bind the speaker, it is asymmetric — and therefore not universal.
+To be universal, a norm must apply to all relevant agents equally — including the one who asserts it.
+
+## 14.3. Hypocrisy is unbinding
 If an agent asserts a norm but does not follow it, the norm collapses.
 This is a violation of universality — the speaker has created a rule for others, but not for themselves.
 The norm, though spoken, is null.
