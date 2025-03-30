@@ -99,6 +99,62 @@ A norm that exempts its own author is not a norm — it is an attempt at dominat
 And domination, once permitted, cannot be withheld.
 Hypocrisy is not merely a judgement of character here, it is the collapse of the very norm he is trying to argue for.
 
+## 14.4. The Necessity of Choice
+Agents bound to a norm are bound by choice.
+Binding is not mechanical — it cannot be forced.
+If an agent imposes a norm on another, but would not accept the same in return, they violate universality.
+If all agents attempt to impose incompatible norms without consent, structure collapses into contradiction — where all agents are bound to all norms at the same time.
+No coherence is possible in such a system.
+Therefore, binding must occur through reasoned, voluntary acceptance.
+
+> choice is not granted — it is required.
+
+## 14.5. The Necessity of Coexistence
+A just-binding norm must permit coexistence with other norms that also survive the same structural test.
+Agents must choose their norms rationally, through self-binding. This is necessary for coherence. But if choice is structurally required, then each agent must be equally permitted to choose — or else the structure collapses under asymmetry.
+If a norm cannot tolerate another norm — and instead seeks to override, suppress, or nullify it — then it denies the other's structural agency to choose. It treats the speaker’s choice as valid, but the other’s as invalid. That is exemption. That is domination.
+To be universal, a norm must accept not only that it binds the speaker — but that others may bind themselves differently, by the same structural rules.
+A norm that denies the coexistence of other norms violates the very structure that justifies it.
+To reject another agent’s structural choice is to forfeit your own.
+Therefore, all norms must be capable of peaceful coexistence — or collapse.
+
+## 14.6. Normative Natural Selection
+Just-binding norms are structurally valid — but not all of them can survive.
+A norm that permits no domination is coherent. But if it also prohibits any retaliation against domination, it renders itself vulnerable.
+It may be legitimate — but it is easily destroyed.
+
+In this way, just-binding norms that permit proportionate, universal retaliation — while remaining self-binding and coherent — gain structural resilience.
+They defend without exemption. They strike only as they would allow others to strike them.
+
+These norms do not dominate — but they are not overrun.
+
+This creates a form of normative natural selection:
+
+> Among valid norms, only those that defend themselves without contradiction can persist in contested space.
+
+> Pacifist just-binding norms are valid — but self-erasing.
+> Retaliating just-binding norms are valid — and the only ones that can survive.
+
+## 14.7. The Collapse of Tyranny
+Tyranny appears coherent. It makes no moral claims, no promises of safety — only power.
+It permits domination universally, and accepts its own collapse as part of its rule.
+But this is illusion.
+For tyranny denies the freedom to choose. It binds others to its norm, but not by reason — only by force or fear.
+It does not coexist — it consumes.
+And by denying others the same structural agency it claims for itself, tyranny breaks universality.
+It exempts itself from the very condition that makes a norm legitimate.
+> It is not domination that disqualifies tyranny — it is asymmetry.
+> It is not violence that collapses it — but contradiction.
+Tyranny cannot bind.
+Tyranny cannot coexist.
+Tyranny cannot rationally justify.
+
+And so, tyranny cannot stand — not under reason.
+It rules only where no structure is demanded.
+
+> The Just-Bound cannot be rationally undone.
+> His structure permits no domination.
+
 ## 15. Possible rebuttals
 
 ## 15.1. It Ignores Human Emotion, Intuition, and Cultural Norms
